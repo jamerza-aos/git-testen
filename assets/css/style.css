@@ -1,0 +1,42 @@
+
+body { background: url(http://www.supah.it/dribbble/008/008.jpg)center/cover no-repeat;
+    text-align: center;
+    color: rgba(73, 70, 70, 0.185);
+    
+     }
+     h1 {color:rgb(0, 0, 0);
+    font-size:1rem ;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: .5vh;
+    
+    }
+    h2 {font-size: 14rem;
+    margin: 30vh 0vh;}
+    
+    h3 {font-size: 3rem;
+        margin-bottom: 0;
+    
+    }
+    h4 {margin-top: 0.5vh;
+        margin-bottom: 25vh;
+    
+    
+    }
+    a { text-decoration: none;
+        color:#5c5c5c ;
+        text-transform: uppercase;
+        border: 1px solid #cdd4de;
+        padding: 1rem 2rem;
+        border-radius: ;
+        margin-top: 5vh;
+    
+    
+    }
+    a:hover {
+        background:#565c73 ;
+          color: #000000;
+    
+    
+    }
+    
